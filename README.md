@@ -3,10 +3,13 @@ Sistema de cardápio desenvoldio em Back-End Java e Front-End ReactJS e TypeScri
 
 ## Back-End
 
+
+## Front-End
+
 #### Languages
-- Java
+- Java 17
 - Springboot
-- MySQL
+- MySQL 8.0
 
 ## Front-End
 
