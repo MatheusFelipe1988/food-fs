@@ -1,5 +1,5 @@
 # food-fs
-Sistema de cardápio desenvoldio em Back-End Java e Front-End ReactJS e TypeScript.
+Sistema de cardápio desenvoldio em Java para Back-end e ReactJS no Front-end, a principal função é criar novas comidas e listar sua foto,nome e preço do produto final, para quando o cliente desejar conhecer, estará todos como se fosse numa prateleira de uma lanchonete ou restaurante.
 
 ## Back-End
 
@@ -8,7 +8,7 @@ Sistema de cardápio desenvoldio em Back-End Java e Front-End ReactJS e TypeScri
 
 #### Languages
 - Java 17
-- Springboot
+- Springboot 2.1.6
 - MySQL 8.0
 
 ## Front-End
