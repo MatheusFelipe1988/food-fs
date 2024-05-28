@@ -5,16 +5,12 @@
   Utilizei o spring initializer para instalar depedencias maven como o Spring Web e Conector do MySQL e Lombok evitando um código sujo e complexo
 
 ## Front-End
-  Foi utilizado o ViteJS para instalar definir a linguagem e framework, nisso defini o React e TypeScript
+  Usando o comando "npm install vite@latest" o node nos ofecere a escolha do frameworks e linguagens web, defini o ReactJS como o framework para a construção de rotas e lógica dessas rotas, TypeScript como a linguagem viável para este trabalho invés do javascript.
 
 #### Languages
 - Java 17
 - Springboot 2.1.6
 - MySQL 8.0
-
-## Front-End
-
-#### Languages
 - NodeJS
 - ReactJS
 - TypeScript
