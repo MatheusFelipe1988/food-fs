@@ -11,6 +11,6 @@
 - Java 17
 - Springboot 2.1.6
 - MySQL 8.0
-- NodeJS
+- NodeJS 20.12.2
 - ReactJS 18.2.0
 - TypeScript
